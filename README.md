@@ -96,71 +96,14 @@ I'm continuously learning and working towards building practical projects.
 
 ---
 
-<!-- GITHUB ACTIVITY & ANALYTICS -->
-
+<!-- LIVE GITHUB METRICS -->
 <div align="center">
 
 <h2>⚡ DEVELOPER CONTROL CENTER</h2>
 
 <p><i>Code • Create • Contribute • Grow</i></p>
 
-</div>
-
-<br/>
-
-<!-- 01 GITHUB OVERVIEW -->
-
-<h3 align="center">01 / GITHUB OVERVIEW</h3>
-
-<div align="center">
-
-<img width="85%" src="https://github-readme-stats.vercel.app/api?username=mohamedshahfee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00C9FF&icon_color=00C9FF&text_color=FFFFFF&include_all_commits=true"/>
-
-</div>
-
-<br/><br/>
-
-<!-- 02 PROGRAMMING LANGUAGES -->
-
-<h3 align="center">02 / PROGRAMMING LANGUAGE BREAKDOWN</h3>
-
-<div align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshahfee&layout=donut&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00C9FF&text_color=FFFFFF"/>
-
-</div>
-
-<br/><br/>
-
-<!-- 03 CONTRIBUTION STREAK -->
-
-<div align="center">
-
-<h3>🔥 THE CONSISTENCY ZONE</h3>
-
-<p><i>Every day is another opportunity to improve.</i></p>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=mohamedshahfee&theme=tokyonight&hide_border=true&background=0B1020&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&sideLabels=AAB7CF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-</div>
-
-<br/><br/>
-
-<!-- 04 ACHIEVEMENTS -->
-
-<h3 align="center">03 / THE ACHIEVEMENT WALL</h3>
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=mohamedshahfee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"/>
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING%20SOMETHING%20NEW-0B1020?style=for-the-badge&logo=github&logoColor=00C9FF&color=123B66"/>
+<img src="https://raw.githubusercontent.com/mohamedshahfee/mohamedshahfee/main/metrics.svg" width="100%" alt="GitHub Metrics"/>
 
 </div>
 
