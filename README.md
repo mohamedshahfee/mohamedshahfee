@@ -1,89 +1,116 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohamed Shahfee
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Mohamed%20Shahfee&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20%26%20Intelligent%20Systems%20Undergraduate&descAlignY=58&descSize=16" />
 
-### B.Tech Student | IT Support Intern | Aspiring Software Developer
+### IT Support Intern | Software & Intelligent Systems Undergraduate
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Interested+in+Artificial+Intelligence;Exploring+Cloud+Computing;Learning+and+Building+Every+Day" />
+<p align="center">
+  <a href="https://github.com/mohamedshahfee">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-shahfee-7bba23351">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mohamedshahfee@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedshahfee&color=2C5364&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Profile
 
-- 👋 I'm **Mohamed Caseem Mohamed Shahfee**.
-- 🎓 B.Tech in Software and Intelligent Systems.
-- 🏛️ University of Vocational Technology, Sri Lanka.
-- 📚 First Semester Completed.
-- 💼 Currently working as an **IT Support Intern**.
-- 🏢 Company: [Intech IT Solutions](https://intechitsolutions.com/)
-- 🤖 Interested in Artificial Intelligence (AI).
-- ☁️ Passionate about Cloud Computing.
-- 🚀 Aspiring Software Developer.
-- 🌱 Always learning and exploring new technologies.
+Hi there! 👋 I'm **Mohamed Caseem Mohamed Shahfee**, a **Software and Intelligent Systems** undergraduate at the **University of Vocational Technology (UoVT), Sri Lanka**.
+
+I am passionate about technology and enjoy learning how software and intelligent systems work. Alongside my academic studies, I am currently gaining practical industry exposure as an **IT Support Intern at Intech IT Solutions**, strengthening my foundation in technical problem-solving and IT operations.
+
+- 🎓 **Education:** B.Tech in Software and Intelligent Systems — UoVT
+- 💼 **Current Role:** IT Support Intern @ Intech IT Solutions
+- 🎯 **Academic Focus:** Software Engineering, Artificial Intelligence & Intelligent Systems
+- 🌱 **Learning Approach:** Building core programming foundations step-by-step through practical experience
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology in Software and Intelligent Systems**
+**Bachelor of Technology in Software and Intelligent Systems**  
+*University of Vocational Technology (UoVT), Sri Lanka*
 
-University of Vocational Technology (UoVT), Sri Lanka.
+- 📚 First Semester Completed
+- 🎯 Academic Interests: Programming, Software Engineering, Artificial Intelligence, and Intelligent Systems.
 
 ---
 
 ## 💼 Internship Experience
 
-**IT Support Intern – Intech IT Solutions**
+### 🖥️ **IT Support Intern** — *Intech IT Solutions*
 
-- 🖥️ Gaining practical experience in IT Support.
-- 🔧 Learning about real-world IT environments.
-- 💡 Developing technical and problem-solving skills.
-- 🌱 Building industry experience.
-
----
-
-## 🎯 Areas of Interest
-
-- 🤖 Artificial Intelligence
-- ☁️ Cloud Computing
-- 💻 Software Development
-- 🌐 Web and Full-Stack Development
-- 📊 Data Analytics
-- 🔐 Cybersecurity
+- 🛠️ Gaining practical exposure to IT support and technical troubleshooting.
+- 💻 Developing an understanding of hardware, software, and operating system support.
+- 🌐 Learning about basic IT infrastructure and technical support workflows.
+- ⚙️ Improving problem-solving and practical technical skills through workplace experience.
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Languages, Tools & Environment
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-shahfee-7bba23351">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/mohamedshahfee">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code::Blocks-419641?style=for-the-badge&logo=codeblocks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Key Areas of Interest
 
-<div align="center">
+| Domain | Focus & Aspirations |
+| :--- | :--- |
+| 🤖 **Artificial Intelligence** | Intelligent Systems & Machine Learning logic |
+| ☁️ **Cloud Computing** | Cloud Technologies & Infrastructure |
+| 💻 **Software Engineering** | Building efficient, structured software solutions |
+| 🌐 **Web Development** | Modern web application development |
+| 🔐 **Cybersecurity** | Fundamentals of digital security |
+| 📊 **Data Analytics** | Working with data insights |
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedshahfee&show_icons=true&theme=tokyonight&hide_border=true" />
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshahfee&layout=compact&theme=tokyonight&hide_border=true" />
+## 📊 GitHub Analytics
 
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedshahfee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshahfee&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 <div align="center">
 
-### 💙 "Learning Today, Building Tomorrow."
+### 📌 *"Learn. Build. Improve. Repeat."*
 
-**Thanks for visiting my profile!**
+**Thanks for visiting my profile! Let's connect!**
+
+<br />
+
+<a href="https://www.linkedin.com/in/mohamed-shahfee-7bba23351">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer"/>
 
 </div>
