@@ -111,20 +111,42 @@ I'm continuously learning and working towards building practical projects.
 ---
 
 <!-- GITHUB STATS -->
+<!-- GITHUB STATISTICS -->
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedshahfee&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C9FF&icon_color=00C9FF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshahfee&layout=compact&theme=tokyonight&hide_border=true&title_color=00C9FF"/>
+<h2 align="center">📊 GitHub Statistics & Analytics</h2>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=mohamedshahfee&theme=tokyonight&hide_border=true&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF" />
+<div align="center">
+
+<!-- Main Stats & Top Languages Side-by-Side (Desktop Friendly width) -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedshahfee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00C9FF&icon_color=00C9FF&text_color=FFFFFF&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshahfee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00C9FF&text_color=FFFFFF" />
+</p>
+
+<br/>
+
+<!-- Streak Stats Card (Centered & Full Width Look) -->
+<p align="center">
+  <img width="98%" src="https://streak-stats.demolab.com?user=mohamedshahfee&theme=tokyonight&hide_border=true&background=0B1020&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&sideLabels=00C9FF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+</p>
+
+<br/>
+
+<!-- Trophies Section for Extra Achievements Look -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedshahfee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=4" />
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/GitHub-Always%20Learning-0B1020?style=for-the-badge&logo=github&logoColor=00C9FF" />
 
 </div>
+
+
+
 
 ---
 
