@@ -178,34 +178,75 @@ I'm continuously learning and working towards building practical projects.
 </div>
 
 <br/><br/>
+<!-- GITHUB ACTIVITY & ANALYTICS -->
 
-<!-- 03: CONTRIBUTION STREAK -->
+<h2 align="center">⚡ DEVELOPER CONTROL CENTER</h2>
+
+<p align="center">
+  <i>Code • Create • Contribute • Grow</i>
+</p>
+
+<br/>
+
+<!-- GITHUB OVERVIEW -->
+
+<h3 align="center">01 / GITHUB OVERVIEW</h3>
 
 <div align="center">
 
-<h2>🔥 CONTRIBUTION STREAK</h2>
-
-<p><i>Consistency is the key to growth.</i></p>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=mohamedshahfee&theme=dark&hide_border=true&background=171329&ring=9B5DE5&fire=FF6B35&currStreakLabel=00E5FF&sideLabels=C084FC&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=mohamedshahfee&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&include_all_commits=true"/>
 
 </div>
 
 <br/><br/>
 
-<!-- 04: ACHIEVEMENTS -->
+<!-- PROGRAMMING LANGUAGES -->
+
+<h3 align="center">02 / PROGRAMMING LANGUAGE BREAKDOWN</h3>
 
 <div align="center">
 
-<h2>🏆 GITHUB ACHIEVEMENTS</h2>
-
-<p><i>Every milestone represents progress.</i></p>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=mohamedshahfee&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshahfee&layout=donut&theme=transparent&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=C9D1D9"/>
 
 </div>
 
 <br/><br/>
+
+<!-- CONTRIBUTION STREAK -->
+
+<div align="center">
+
+<h3>🔥 THE CONSISTENCY ZONE</h3>
+
+<p><i>Every day is another opportunity to improve.</i></p>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=mohamedshahfee&theme=dark&hide_border=true&background=1A1033&ring=BF5AF2&fire=FF9F43&currStreakLabel=BF5AF2&sideLabels=D0A9F5&dates=B8A9CC&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+</div>
+
+<br/><br/>
+
+<!-- ACHIEVEMENTS -->
+
+<h2 align="center">🏆 THE ACHIEVEMENT WALL</h2>
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=mohamedshahfee&theme=onestar&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"/>
+
+</div>
+
+<br/><br/>
+
+<!-- FOOTER -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING%20SOMETHING%20NEW-10152B?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+
+</div>
+
+
 
 <!-- FOOTER -->
 
