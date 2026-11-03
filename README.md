@@ -225,6 +225,53 @@ I'm continuously learning and working towards building practical projects.
 </div>
 
 <br/><br/>
+<!-- GITHUB ACTIVITY & ANALYTICS -->
+
+<h2 align="center">⚡ DEVELOPER CONTROL CENTER</h2>
+
+<p align="center">
+  <i>Code • Create • Contribute • Grow</i>
+</p>
+
+<br/>
+
+<!-- GITHUB OVERVIEW -->
+
+<h3 align="center">01 / GITHUB OVERVIEW</h3>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=mohamedshahfee&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&include_all_commits=true"/>
+
+</div>
+
+<br/><br/>
+
+<!-- PROGRAMMING LANGUAGES -->
+
+<h3 align="center">02 / PROGRAMMING LANGUAGE BREAKDOWN</h3>
+
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshahfee&layout=donut&theme=transparent&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=C9D1D9"/>
+
+</div>
+
+<br/><br/>
+
+<!-- CONTRIBUTION STREAK -->
+
+<div align="center">
+
+<h3>🔥 THE CONSISTENCY ZONE</h3>
+
+<p><i>Every day is another opportunity to improve.</i></p>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=mohamedshahfee&theme=dark&hide_border=true&background=1A1033&ring=BF5AF2&fire=FF9F43&currStreakLabel=BF5AF2&sideLabels=D0A9F5&dates=B8A9CC&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+</div>
+
+<br/><br/>
 
 <!-- ACHIEVEMENTS -->
 
@@ -248,40 +295,16 @@ I'm continuously learning and working towards building practical projects.
 
 
 
-<!-- FOOTER -->
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ALWAYS%20LEARNING-ALWAYS%20BUILDING-0B1020?style=for-the-badge&logo=github&logoColor=00C9FF"/>
-
-</div>
 
 
 
-<!-- FOOTER -->
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING%20SOMETHING%20NEW-10152B?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 
-</div>
-<!-- Streak Stats Card (Centered & Full Width Look) -->
-<p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=mohamedshahfee&theme=tokyonight&hide_border=true&background=0B1020&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&sideLabels=00C9FF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-</p>
 
-<br/>
 
-<!-- Trophies Section for Extra Achievements Look -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedshahfee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=4" />
-</p>
 
-<br/>
 
-<img src="https://img.shields.io/badge/GitHub-Always%20Learning-0B1020?style=for-the-badge&logo=github&logoColor=00C9FF" />
-
-</div>
 
 
 
