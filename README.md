@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamed Shahfee</h1>
 
-<!--
-**mohamedshahfee/mohamedshahfee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Intelligent Systems Student | Aspiring Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Passionate+about+Technology;Always+Learning+New+Things" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Student at University of Vocational Technology
+- 💻 Software Intelligent Systems
+- 🌱 Learning Programming and Software Development
+- 🚀 Interested in Technology and Innovation
+- 🎯 Aspiring Software Developer
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-shahfee-7bba23351" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedshahfee&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Thanks for visiting my profile! ✨</b>
+</p>
