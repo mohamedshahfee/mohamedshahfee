@@ -143,7 +143,7 @@ I'm continuously learning and working towards building practical projects.
 </a>
 
 <a href="mailto:mohamedshahfee@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
