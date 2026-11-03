@@ -1,39 +1,89 @@
-<h1 align="center">Hi 👋, I'm Mohamed Shahfee</h1>
+<div align="center">
 
-<h3 align="center">Software Intelligent Systems Student | Aspiring Developer</h3>
+# 👋 Hi, I'm Mohamed Shahfee
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Passionate+about+Technology;Always+Learning+New+Things" />
-</p>
+### B.Tech Student | IT Support Intern | Aspiring Software Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Interested+in+Artificial+Intelligence;Exploring+Cloud+Computing;Learning+and+Building+Every+Day" />
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Student at University of Vocational Technology
-- 💻 Software Intelligent Systems
-- 🌱 Learning Programming and Software Development
-- 🚀 Interested in Technology and Innovation
-- 🎯 Aspiring Software Developer
+- 👋 I'm **Mohamed Caseem Mohamed Shahfee**.
+- 🎓 B.Tech in Software and Intelligent Systems.
+- 🏛️ University of Vocational Technology, Sri Lanka.
+- 📚 First Semester Completed.
+- 💼 Currently working as an **IT Support Intern**.
+- 🏢 Company: [Intech IT Solutions](https://intechitsolutions.com/)
+- 🤖 Interested in Artificial Intelligence (AI).
+- ☁️ Passionate about Cloud Computing.
+- 🚀 Aspiring Software Developer.
+- 🌱 Always learning and exploring new technologies.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology in Software and Intelligent Systems**
+
+University of Vocational Technology (UoVT), Sri Lanka.
+
+---
+
+## 💼 Internship Experience
+
+**IT Support Intern – Intech IT Solutions**
+
+- 🖥️ Gaining practical experience in IT Support.
+- 🔧 Learning about real-world IT environments.
+- 💡 Developing technical and problem-solving skills.
+- 🌱 Building industry experience.
+
+---
+
+## 🎯 Areas of Interest
+
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Computing
+- 💻 Software Development
+- 🌐 Web and Full-Stack Development
+- 📊 Data Analytics
+- 🔐 Cybersecurity
+
+---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-shahfee-7bba23351" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-shahfee-7bba23351">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/mohamedshahfee">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedshahfee&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedshahfee&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshahfee&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  <b>✨ Thanks for visiting my profile! ✨</b>
-</p>
+<div align="center">
+
+### 💙 "Learning Today, Building Tomorrow."
+
+**Thanks for visiting my profile!**
+
+</div>
