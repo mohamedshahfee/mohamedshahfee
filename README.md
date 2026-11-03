@@ -36,8 +36,7 @@ Hello! I'm **Mohamed Shahfee**, a technology enthusiast passionate about softwar
 
 ## 🎓 Education
 
-**Bachelor of Technology in Software and Intelligent Systems (B.Tech)**
-
+**Bachelor of Technology in Software and Intelligent Systems (B.Tech)**  
 *University of Vocational Technology (UoVT), Sri Lanka*
 
 ---
